@@ -1,6 +1,6 @@
 const dataset = [
   {
-    "query": "hey Darius",
-    "response": "Hi there! How can i assist you?"
+    "query": "hey hello yo hi darius",
+    "response": "Hello there!"
   }
 ]
